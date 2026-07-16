@@ -9,7 +9,7 @@ const DATA_FILES = [
   { file: '/data/seoul/seoul_accommodation.json', category: '숙박' },
   { file: '/data/seoul/seoul_courses.json', category: '여행코스' },
   { file: '/data/seoul/seoul_festivals.json', category: '축제공연행사' },
-  { file: '/data/seoul/seoul_restaurants_mock.json', category: '음식점' },
+  { file: '/data/seoul/seoul_restaurants_mock.json', category: '맛집' },
 ]
 
 let cachedIndex = null
